@@ -17,10 +17,10 @@ export default function Footer(){
                 <div className="col">
                     <h2>Company Info</h2>
                     <ul>
-                        <li><a href="#">About Us</a></li>
-                        <li><a href="#">Carrier</a></li>
-                        <li><a href="#">we are hiring</a></li>
-                        <li><a href="#">Blog</a></li>
+                        <li><a href="#home">About Us</a></li>
+                        <li><a  href="#course">Carrier</a></li>
+                        <li><a href="#reviews">we are hiring</a></li>
+                        <li><a href="#home">Blog</a></li>
                     </ul>
                 </div>
                  <div className="col">

@@ -8,30 +8,30 @@ export default function Header(){
     </a>
     <ul>
         <li>
-              <a  href="#" >
+              <a  href="#home" >
         Home
     </a>
         </li>
          <li>
-              <a  href="#">
+              <a  href="#course">
         Product
     </a>
         </li>
              <li>
-              <a href="#" >
+              <a href="#reviews" >
         Pricing
     </a>
         </li>
              <li>
-              <a href="#" >
+              <a href="#join-us" >
         Contact
     </a>
         </li>
     </ul>
     <div className="account">
-     <a href="#" className="login"> Login
+     <a href="#footer" className="login"> Login
     </a>
-  <button  className="btn-join" > Join Us <FaArrowRight /></button>
+  <button  className="btn-join"> Join Us <FaArrowRight /></button>
     </div>
   </nav>
     </header>

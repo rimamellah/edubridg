@@ -4,7 +4,7 @@ import SectionHeader from "./SectionHeader"
 export default function Courses(){
     return(
      <section id="courses">
-        <div className="container">
+        <div className="container" id="course">
             <SectionHeader title="Make Onliune Edection acessible" decription="Lorem ipsum dolor sit amet consectetur adipisicing elit. Nesciunt, qui obcaecati? Rerum, impedit! Corrupti, autem! Nulla quidem, magnam eaque, sit in a esse molestiae odio at libero doloribus molestias placeat.
 "/>
 <div className="courses-contianer">
