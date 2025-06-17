@@ -43,7 +43,12 @@ export default function Footer(){
                 </div>
             </div>
             <div className="copyright">
-                <p>&copy; 2025 | All right reserverd made by {" "}<a href="https>//rimamellah1324.com" target="_blank"><strong className="text-primary">Rima Mellah</strong></a></p>
+                <p>&copy; 2025 | All right reserverd made by {" "}
+                   <a href="https://rimamellah1324.com" target="_blank" rel="noopener noreferrer">
+  <strong className="text-primary">Rima Mellah</strong>
+</a>
+
+                    </p>
             </div>
         </div>
       </footer>
